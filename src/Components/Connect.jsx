@@ -4,31 +4,31 @@ import './Connect.css';
 const teamMembers = [
   {
     name: "Gmail",
-    role: "click ME",
+    role: "Gmail",
     link: "https://github.com/ritikgupta06",
     imageUrl: "/src/assets/gmail.png",
   },
   {
     name: "Linkedin",
-    role: "UI/UX Designer",
-    link: "https://www.linkedin.com",
+    role: "Liinkedin",
+    link: "https://www.linkedin.com/in/ritikgupta2026/",
     imageUrl: "/src/assets/ld.png",
   },
   {
     name: "Github",
-    role: "Front-End Dev",
+    role: "Github",
     link: "https://github.com",
     imageUrl: "/src/assets/github.png",
   },
   {
     name: "instagram",
-    role: "Android Dev",
+    role: "instagram",
     link: "https://www.instagram.com",
     imageUrl: "/src/assets/insta.jpg",
   },
   {
     name: "Portfolio",
-    role: "Content Writer",
+    role: "Portfolio",
     link: "https://example.com",
     imageUrl: "/src/assets/icon.jpg",
   },
